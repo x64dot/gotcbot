@@ -105,7 +105,7 @@ def menu():
         int_choice = int(choice)
 
         if int_choice == 1:
-            # Normal farming mode — not implemented yet
+            # Normal farming mode
             return int_choice
         elif int_choice == 2:
             # Event farming mode
